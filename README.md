@@ -7,7 +7,7 @@ Explore my collection of learning experiences organized into three categories: S
 <details>
 <summary><strong>SQL Learning</strong></summary>
 
-#### Learning 1: B2B Retail Customer Analytics
+<summary><strong>Learning 1: B2B Retail Customer Analytics</strong></summary>
 - **Description:** XYZ.com, a B2B startup specializing in product distribution, emphasizes informed decision-making through quarterly town hall meetings. Representatives from various divisions gather to evaluate performance metrics from the previous quarter, focusing on enhancing business operations and strategies.
 - **Documentation:** [Report Deck](https://github.com/fitria-dwi/personal-notebook/blob/main/SQL/B2B%20Retail%20Customer%20Analytics%20Report/Report%20Deck%20%E2%80%93%20B2B%20Retail%20Insights.pdf) and [SQL Query](https://github.com/fitria-dwi/personal-notebook/blob/main/SQL/B2B%20Retail%20Customer%20Analytics%20Report/Query%20%E2%80%93%20B2B%20Retail%20Insights.sql)
 
@@ -23,6 +23,16 @@ Explore my collection of learning experiences organized into three categories: S
 
 </details>
 
+<details>
+<summary><strong>Python Learning</strong></summary>
+
+ </details>
+
+ <details>
+<summary><strong>RStudio Learning</strong></summary>
+
+ </details>
+ 
 Thank you for visiting this repository, your support and engagement are greatly appreciated as I continue to learn and strive towards becoming a data expert. For questions or collaborations, feel free to reach out via 
  <p align=center>
  <a href="mailto:wulan391@sci.ui.ac.id" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>   
