@@ -5,7 +5,7 @@ Welcome to my GitHub repository where I document my journey towards becoming a d
 Explore my collection of learning experiences organized into three categories: SQL, Python, and RStudio. Each learning journey showcases different skills and insights gained as I strive to deepen my knowledge in the field of data science and analytics.
 
 <details>
-<summary><strong>**SQL Learning**</strong></summary>
+<summary><strong>SQL Learning</strong></summary>
 
 #### Learning 1: B2B Retail Customer Analytics
 - **Description:** XYZ.com, a B2B startup specializing in product distribution, emphasizes informed decision-making through quarterly town hall meetings. Representatives from various divisions gather to evaluate performance metrics from the previous quarter, focusing on enhancing business operations and strategies.
