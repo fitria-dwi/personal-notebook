@@ -6,6 +6,8 @@ Explore my collection of learning experiences organized into three categories: S
 
 <details>
 <summary><strong>SQL Learning</strong></summary>
+
+Each lesson below covers a specific use case or analysis scenario I worked on for various business applications.
  
 <details>
 <summary><strong>Learning 1: B2B Retail Customer Analytics</strong></summary>
