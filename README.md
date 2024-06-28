@@ -4,7 +4,8 @@ Welcome to my GitHub repository where I document my journey towards becoming a d
 
 Explore my collection of learning experiences organized into three categories: SQL, Python, and RStudio. Each learning journey showcases different skills and insights gained as I strive to deepen my knowledge in the field of data science and analytics.
 
-### SQL Learning
+<details>
+<summary><strong>**SQL Learning**</strong></summary>
 
 #### Learning 1: B2B Retail Customer Analytics
 - **Description:** XYZ.com, a B2B startup specializing in product distribution, emphasizes informed decision-making through quarterly town hall meetings. Representatives from various divisions gather to evaluate performance metrics from the previous quarter, focusing on enhancing business operations and strategies.
@@ -20,3 +21,12 @@ Explore my collection of learning experiences organized into three categories: S
 - **Description:** As a BI Analyst at DQLab Store, the focus is on analyzing e-commerce performance data from 2019 to 2020 to provide valuable business insights.
 - **Documentation:** [Report Deck](https://github.com/fitria-dwi/personal-notebook/blob/main/SQL/Data%20Analysis%20for%20E-Commerce/Report%20Deck%20%E2%80%93%20Data%20Analysis%20for%20E-Commerce.pdf) and [SQL Query](https://github.com/fitria-dwi/personal-notebook/blob/main/SQL/Data%20Analysis%20for%20E-Commerce/Query%20%E2%80%93%20Data%20Analysis%20for%20E-Commerce.sql)
 
+</details>
+
+Thank you for visiting this repository, your support and engagement are greatly appreciated as I continue to learn and strive towards becoming a data expert. For questions or collaborations, feel free to reach out via 
+ <p align=center>
+ <a href="mailto:wulan391@sci.ui.ac.id" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>   
+  <a href="https://www.linkedin.com/in/fitriadwi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedln-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>    
+</p>
+
+**Let's learn and grow together**!
