@@ -8,7 +8,7 @@ Explore my collection of learning experiences organized into three categories: S
 
 #### Learning 1: B2B Retail Customer Analytics
 - **Description:** XYZ.com, a B2B startup specializing in product distribution, emphasizes informed decision-making through quarterly town hall meetings. Representatives from various divisions gather to evaluate performance metrics from the previous quarter, focusing on enhancing business operations and strategies.
-- **Access:** [Report deck](https://github.com/fitria-dwi/personal-notebook/blob/main/SQL/B2B%20Retail%20Customer%20Analytics%20Report/Report%20Deck%20%E2%80%93%20B2B%20Retail%20Insights.pdf)
+- **Access:** [Report deck](https://github.com/fitria-dwi/personal-notebook/blob/main/SQL/B2B%20Retail%20Customer%20Analytics%20Report/Report%20Deck%20%E2%80%93%20B2B%20Retail%20Insights.pdf) and [SQL Query](https://github.com/fitria-dwi/personal-notebook/blob/main/SQL/B2B%20Retail%20Customer%20Analytics%20Report/Query%20%E2%80%93%20B2B%20Retail%20Insights.sql)
 
 ![SQL Learning Snapshot](sql_learning_snapshot.png)
 
