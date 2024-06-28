@@ -15,14 +15,20 @@ Explore my collection of learning experiences organized into three categories: S
   
 </details>
 
-#### Learning 2: Superstore Data Analysis
+<details>
+<summary><strong>Learning 2: Superstore Data Analysis</strong></summary>
+ 
 - **Description:** As a BI Analyst at Superstore, the role focuses on delivering actionable insights to support data-driven decision-making across various departments within the organization.
 - **Documentation:** [Report Deck](https://github.com/fitria-dwi/personal-notebook/blob/main/SQL/Superstore%20Data%20Analysis/Report%20Deck%20%E2%80%93%20Superstore%20Data%20Analysis.pdf) and [SQL Query](https://github.com/fitria-dwi/personal-notebook/blob/main/SQL/Superstore%20Data%20Analysis/Query%20%E2%80%93%20Superstore%20Data%20Analysis.sql)
 
+</details>
 
-#### Learning 3: E-Commerce Analytics
+<details>
+<summary><strong>Learning 3: E-Commerce Analytics</strong></summary>
+ 
 - **Description:** As a BI Analyst at DQLab Store, the focus is on analyzing e-commerce performance data from 2019 to 2020 to provide valuable business insights.
 - **Documentation:** [Report Deck](https://github.com/fitria-dwi/personal-notebook/blob/main/SQL/Data%20Analysis%20for%20E-Commerce/Report%20Deck%20%E2%80%93%20Data%20Analysis%20for%20E-Commerce.pdf) and [SQL Query](https://github.com/fitria-dwi/personal-notebook/blob/main/SQL/Data%20Analysis%20for%20E-Commerce/Query%20%E2%80%93%20Data%20Analysis%20for%20E-Commerce.sql)
+</details>
 
 </details>
 
