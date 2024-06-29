@@ -37,14 +37,14 @@ Each lesson below covers a specific use case or analysis scenario I worked on fo
 <details>
 <summary><strong>Python Learning</strong></summary>
  
-BELOM DIISIIIII YAAAA
+This section offers comprehensive learning on Python programming, encompassing fundamental concepts and their practical applications.
  
 <details>
 <summary><strong>Learning 1: Business Decision Research</strong></summary>
- 
+ <pre>
 - **Description:** DQLab Sports Center, which specializes in selling a variety of sports necessities, faces the challenge of declining repeat customers. As a Junior Data Analyst, you are tasked by the store manager to identify and understand customer churn—those who have not made purchases in the last 6 months using transaction records from 2013 to 2019.
 - **Documentation:** [Python Notebook](https://github.com/fitria-dwi/personal-notebook/blob/main/Python/Business%20Decision%20Research/Script%20%E2%80%93%20Business%20Decision%20Research.ipynb)
-  
+ </pre>
 </details>
 
 <details>
