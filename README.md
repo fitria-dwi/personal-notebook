@@ -111,6 +111,41 @@ This section offers comprehensive learning on Python programming, encompassing f
  <details>
 <summary><strong>RStudio Learning</strong></summary>
 
+<br>
+
+This section covers learning about R programming, including basic concepts and practical applications.
+ 
+</br>
+ 
+<details>
+<summary><strong>Learning 1: Credit Risk Analysis</strong></summary>
+ <br>
+ 
+- **Description:** This project focuses on analyzing patterns within loan application data to develop a predictive model. The goal is to predict the risk rating for new loan applications using various variables, aiming to improve accuracy and efficiency in assessing creditworthiness and mitigating potential risks.
+- **Documentation:** [R Markdown](https://github.com/fitria-dwi/personal-notebook/blob/main/RStudio/Credit%20Risk%20Analysis/Markdown%20%E2%80%93%20Credit%20Risk%20Analysis.md)
+
+</br>
+</details>
+
+<details>
+<summary><strong>Learning 2: Market Basket Analysis</strong></summary>
+<br>
+ 
+- **Description:** This project focuses on leveraging insights from customer purchase patterns to optimize retail strategies, aiming to enhance customer satisfaction and increase revenue by improving store layout and online catalog organization based on strong product associations.
+- **Documentation:** [R Markdown](https://github.com/fitria-dwi/personal-notebook/blob/main/RStudio/Market%20Basket%20Analysis/Markdown%20%E2%80%93%20Market%20Basket%20Analysis.md)
+
+</br>
+</details>
+
+<details>
+<summary><strong>Learning 3: Product Packaging</strong></summary>
+ <br>
+ 
+- **Description:** This project aims to tackle several challenges faced by companies, including increasing competition and excess stock of many products. Its goal is to innovate by creating product packages that boost sales and profitability.
+- **Documentation:** [R Markdown](https://github.com/fitria-dwi/personal-notebook/blob/main/RStudio/Product%20Packaging/Markdown%20%E2%80%93%20Product%20Packaging.md)
+
+</br>
+</details>
 
  </details>
  
