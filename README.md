@@ -49,6 +49,7 @@ Each lesson below covers a specific use case or analysis scenario I worked on fo
 <summary><strong>Python Learning</strong></summary>
  
 <br>
+
 This section offers comprehensive learning on Python programming, encompassing fundamental concepts and their practical applications.
  
 </br>
@@ -65,10 +66,12 @@ This section offers comprehensive learning on Python programming, encompassing f
 
 <details>
 <summary><strong>Learning 2: Customer Churn Prediction</strong></summary>
+<br>
  
 - **Description:** DQLab Telco, a telecommunications company established in 2019, faces the challenge of customers switching subscriptions to competitors. This project aims to enhance customer retention by developing machine learning models to predict and mitigate customer churn.
 - **Documentation:** [Python Notebook](https://github.com/fitria-dwi/personal-notebook/blob/main/Python/Customer%20Churn%20Prediction/Script%20%E2%80%93%20Customer%20Churn%20Prediction.ipynb)
-  
+
+</br>
 </details>
 
 <details>
