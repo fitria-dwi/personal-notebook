@@ -36,11 +36,56 @@ Each lesson below covers a specific use case or analysis scenario I worked on fo
 
 <details>
 <summary><strong>Python Learning</strong></summary>
+ 
+BELOM DIISIIIII YAAAA
+ 
+<details>
+<summary><strong>Learning 1: Business Decision Research</strong></summary>
+ 
+- **Description:** DQLab Sports Center, which specializes in selling a variety of sports necessities, faces the challenge of declining repeat customers. As a Junior Data Analyst, you are tasked by the store manager to identify and understand customer churn—those who have not made purchases in the last 6 months using transaction records from 2013 to 2019.
+- **Documentation:** [Python Notebook](https://github.com/fitria-dwi/personal-notebook/blob/main/Python/Business%20Decision%20Research/Script%20%E2%80%93%20Business%20Decision%20Research.ipynb)
+  
+</details>
+
+<details>
+<summary><strong>Learning 2: Customer Churn Prediction</strong></summary>
+ 
+- **Description:** DQLab Telco, a telecommunications company established in 2019, faces the challenge of customers switching subscriptions to competitors. This project aims to enhance customer retention by developing machine learning models to predict and mitigate customer churn.
+- **Documentation:** [Python Notebook](https://github.com/fitria-dwi/personal-notebook/blob/main/Python/Customer%20Churn%20Prediction/Script%20%E2%80%93%20Customer%20Churn%20Prediction.ipynb)
+  
+</details>
+
+<details>
+<summary><strong>Learning 3: Customer Segmentation</strong></summary>
+ 
+- **Description:** Understanding customer characteristics is crucial for companies to tailor effective marketing strategies. By segmenting customers, businesses can gain deeper insights into their preferences and behaviors, enabling more targeted and efficient marketing approaches. This project aims to leverage customer segmentation techniques to enhance the effectiveness of marketing strategies.
+- **Documentation:** [Python Notebook](https://github.com/fitria-dwi/personal-notebook/blob/main/Python/Customer%20Segmentation%20Using%20K-prototypes/Script%20%E2%80%93%20Customer%20Segmentation%20Using%20K-prototypes.ipynb)
+  
+</details>
+
+<details>
+<summary><strong>Learning 4: Data Analysis of COVID-19</strong></summary>
+ 
+- **Description:** 
+- **Documentation:** [Python Notebook](https://github.com/fitria-dwi/personal-notebook/blob/main/Python/Data%20Analysis%20of%20COVID-19%20in%20the%20World%20and%20ASEAN/Script%20%E2%80%93%20Data%20Analysis%20of%20COVID-19%20in%20the%20World%20and%20ASEAN.ipynb)
+  
+</details>
+
+<details>
+<summary><strong>Learning 5: Data Analysis of COVID-19 in Indonesia</strong></summary>
+ 
+- **Description:** 
+- **Documentation:** [Python Notebook](https://github.com/fitria-dwi/personal-notebook/blob/main/Python/Exploratory%20Data%20Analysis%20of%20COVID-19%20in%20Indonesia/Script%20%E2%80%93%20Exploratory%20Data%20Analysis%20of%20COVID-19%20in%20Indonesia.ipynb)
+  
+</details>
+
 
  </details>
 
+
  <details>
 <summary><strong>RStudio Learning</strong></summary>
+
 
  </details>
  
