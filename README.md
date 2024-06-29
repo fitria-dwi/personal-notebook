@@ -66,7 +66,7 @@ BELOM DIISIIIII YAAAA
 <details>
 <summary><strong>Learning 4: Data Analysis of COVID-19</strong></summary>
  
-- **Description:** 
+- **Description:** This project focuses on analyzing COVID-19 data. These analyses aim to provide valuable insights for a deeper understanding of the impact and dynamics of the pandemic, both globally and within the ASEAN region, thereby facilitating informed decision-making and response strategies.
 - **Documentation:** [Python Notebook](https://github.com/fitria-dwi/personal-notebook/blob/main/Python/Data%20Analysis%20of%20COVID-19%20in%20the%20World%20and%20ASEAN/Script%20%E2%80%93%20Data%20Analysis%20of%20COVID-19%20in%20the%20World%20and%20ASEAN.ipynb)
   
 </details>
@@ -74,7 +74,7 @@ BELOM DIISIIIII YAAAA
 <details>
 <summary><strong>Learning 5: Data Analysis of COVID-19 in Indonesia</strong></summary>
  
-- **Description:** 
+- **Description:** This project focuses on conducting exploratory data analysis (EDA) of COVID-19 data in Indonesia. It aims to uncover key insights and trends to better understand the spread, impact, and response strategies related to the pandemic within the country.
 - **Documentation:** [Python Notebook](https://github.com/fitria-dwi/personal-notebook/blob/main/Python/Exploratory%20Data%20Analysis%20of%20COVID-19%20in%20Indonesia/Script%20%E2%80%93%20Exploratory%20Data%20Analysis%20of%20COVID-19%20in%20Indonesia.ipynb)
   
 </details>
